@@ -1,0 +1,33 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(255, 255, 255);
+    max-width: 1000px;
+    margin: auto;
+}
+
+
+
+.list-group-item{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.complete{
+    text-decoration: line-through;
+}
+.container_app{
+    padding: 20px;
+    h1{
+        justify-content: center;
+        display: flex;
+        font-weight: 600;
+        color: rgb(0, 0, 0);
+        font-size: xx-large;
+    }
+}
+.msgNoDis{
+        text-align: center;
+        font-size: x-large;
+        font-weight: 550;
+    }
